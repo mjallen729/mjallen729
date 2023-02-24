@@ -2,7 +2,7 @@
 
 I'm interested in full stack engineering, data science, & machine learning. Check out my repos to see what I'm creating!
 
-## 🔧 My Toolbox
+## 🔧 Toolbox
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
