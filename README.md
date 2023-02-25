@@ -10,4 +10,4 @@ I'm interested in full stack engineering, data science, & machine learning. Chec
 [![JavaScript](https://img.shields.io/badge/Javascript-%23e8b313.svg?style=for-the-badge&logo=JavaScript&logoColor=white)](https://www.javascript.com/)
 
 ## 📈 Stats
-![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjallen729&show_icons=true&theme=tokyonight)
+[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjallen729&show_icons=true&theme=tokyonight)](https://github.com/mjallen729?tab=repositories)
