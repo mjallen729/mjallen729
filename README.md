@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Matt.
 
-I'm interested in full stack engineering, data science, & machine learning. Check out my repos to see what I'm creating!
+I'm interested in full stack engineering, cryptography, & machine learning. Check out my repos to see what I'm creating!
 
 ## 🔧 Toolbox
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
