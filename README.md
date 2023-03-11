@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Matt.
 
-I'm interested in full stack engineering, cryptography, & machine learning. Check out my repos to see what I'm creating!
+I'm interested in full stack engineering, cryptography, & machine learning. Check out my repos to see what I'm up to!
+
+I love collaborating; feel free to create pull requests, issues, or comments.
 
 ## 🔧 Toolbox
 [![JavaScript](https://img.shields.io/badge/Javascript-%23e8b313.svg?style=for-the-badge&logo=JavaScript&logoColor=white)](https://www.javascript.com/)
