@@ -2,7 +2,7 @@
 
 I'm interested in full stack engineering, cryptography, & machine learning. Check out my repos or to see what I'm up to!
 
-I love collaborating; feel free to create pull requests, issues, or comments.
+I'd love to hear from you; feel free to create pull requests, issues, or comments.
 
 ## 🔧 Toolbox
 [![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
@@ -13,17 +13,29 @@ I love collaborating; feel free to create pull requests, issues, or comments.
 [![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
 
 ## ✨ Featured
+### __
 ### Prime Checker
 Check if a number is prime with a bit of a social twist; capable of checking large numbers very quickly.
 
 https://is-prime-phi.vercel.app/ or [source](https://github.com/mjallen729/Is-Prime)
 
+### __
 ### Restaurant Reviews
 A basic restaurant review site using mongo db sample data; includes psuedo-login and search/filter functionalities.
 
 https://review-site-alpha.vercel.app/ or [source](https://github.com/mjallen729/Review-Site)
 
+### __
+### Luau Collections
+A library of various data structures and algorithms for Luau developers; name inspired by the collections library in python.
 
+[source](https://github.com/mjallen729/Lua-Collections)
+
+### __
+### Movie Swipe [coming soon]
+Tinder-style swiping game for trending new movies to help you and your friends decide what to watch.
+
+[source]
 \
 \
 \
