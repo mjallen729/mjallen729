@@ -30,12 +30,6 @@ https://review-site-alpha.vercel.app/ or [source](https://github.com/mjallen729/
 A library of various data structures and algorithms for Luau developers; name inspired by the collections library in python.
 
 [source](https://github.com/mjallen729/Lua-Collections)
-
-### __
-### Movie Swipe [coming soon]
-Tinder-style swiping game for trending new movies to help you and your friends decide what to watch.
-
-[source]
 \
 \
 \
