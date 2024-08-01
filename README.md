@@ -13,7 +13,6 @@ I'd love to hear from you; feel free to create pull requests, issues, or comment
 [![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
 
 ## ✨ Featured
-### __
 ### Prime Checker
 Check if a number is prime with a bit of a social twist; capable of checking large numbers very quickly.
 
