@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Matt.
 
-I'm interested in full stack engineering, cryptography, & machine learning. Check out my repos or to see what I'm up to!
+I'm interested in full stack engineering, cryptography, & machine learning. Check out my repos to see what I'm up to!
 
 I'd love to hear from you; feel free to create pull requests, issues, or comments.
 
