@@ -12,23 +12,7 @@ I'd love to hear from you; feel free to create pull requests, issues, or comment
 [![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
 
-## ✨ Featured
-### Prime Checker
-Check if a number is prime with a bit of a social twist; capable of checking large numbers very quickly.
-
-https://is-prime-phi.vercel.app/ or [source](https://github.com/mjallen729/Is-Prime)
-
-### __
-### Restaurant Reviews
-A basic restaurant review site using mongo db sample data; includes psuedo-login and search/filter functionalities.
-
-https://review-site-alpha.vercel.app/ or [source](https://github.com/mjallen729/Review-Site)
-
-### __
-### Luau Collections
-A library of various data structures and algorithms for Luau developers; name inspired by the collections library in python.
-
-[source](https://github.com/mjallen729/Lua-Collections)
+\
 \
 \
 \
