@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Matt.
+# Hello! 👋 I'm Matt.
 
 I'm interested in machine learning, backend development, and cryptography. Check out my repos to see what I'm up to!
 
